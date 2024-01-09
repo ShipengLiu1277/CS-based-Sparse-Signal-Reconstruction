@@ -1,5 +1,5 @@
 # CS-based-Sparse-Signal-Reconstruction
-This repository contains code pertaining to the project of CS-based sparse signal reconstructionin the course Applied Convex Optimization
+This repository contains code pertaining to the project of CS-based sparse signal reconstructionin the course Applied Convex Optimization.
 In this project the problem of sparse signal reconstruction is formulated into least l1-norm problem and Lasso regularization problem.
 1. CVX_main calls the CVX solver to addresses the two proposed problem formulations.
 2. ProjectedGradient_main uses the projected (sub)gradient method to solve least l1-norm problem.
